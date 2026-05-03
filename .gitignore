@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Logs and generated outputs
+*.log
+outputs/
+results_generated/
+logs/
+
+# Secrets
+*.pem
+*.key
+credentials/
+secrets/
+config_private.py
